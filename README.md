@@ -16,3 +16,6 @@
 ...
 
 [구글 바로가기](http://google.com)
+
+
+[네이버 바로가기](http://www.naver.com)
